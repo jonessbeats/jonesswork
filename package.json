@@ -1,0 +1,22 @@
+{
+  "name": "jonesswork",
+  "version": "1.0.0",
+  "description": "My second test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonessbeats/jonesswork.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonessbeats/jonesswork/issues"
+  },
+  "homepage": "https://github.com/jonessbeats/jonesswork#readme"
+}
